@@ -1,4 +1,4 @@
-var defaultConfig = 'common/defaultConfig';
+var defaultConfig = require('common/defaultConfig');
 
 module.exports = helpers.deepMerge(defaultConfig, {
     foo: {
