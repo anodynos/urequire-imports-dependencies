@@ -7,4 +7,5 @@ build
 # Node dependencies directory
 node_modules
 
-.idea/
+/.idea/
+/DRAFT/
